@@ -1,8 +1,8 @@
 # Javascript Crash Course
 
-* YouTube video: https://youtu.be/hdI2bqOjy3c?si=2eeVN_zTIePvH7WB
+## YouTube video: https://youtu.be/hdI2bqOjy3c?si=2eeVN_zTIePvH7WB
 
-* Note-taking from clip:
+## Note-taking from clip:
 - JavaScript: client-side programming = code that runs on your client machine
 - Python, PHP, C#, Java, etc.: server-side programming
 - DOM: Document Object Model - a tree structure of your whole document
